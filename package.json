@@ -1,0 +1,11 @@
+{
+  "name": "birdbase",
+  "version": "1.0.0",
+  "devDependencies": {
+    "babel-core": "^6.20.0",
+    "babel-preset-es2015": "^6.18.0"
+  },
+  "dependencies": {
+    "hapi": "^16.0.1"
+  }
+}
